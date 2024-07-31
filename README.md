@@ -28,12 +28,12 @@ This E-commerce app is designed specifically for a single store, providing a pla
    flutter pub get
    flutter run
 
-##Usage
+## Usage
  1. Admin Login: Store admins can log in to manage their products and orders.
  2. Customer Browse and Purchase: Customers can browse products, add them to their cart, and proceed to checkout.
  3. Order Management: Admins can track and manage customer orders.
 
-##Contributing
+## Contributing
 We welcome contributions from the community! Here’s how you can help:
 
 1. Fork the repository.
@@ -42,8 +42,8 @@ We welcome contributions from the community! Here’s how you can help:
 4. Push your changes to your fork.
 5. Open a pull request with a detailed description of your changes.
 
-##License
+## License
 E-commerce App is licensed under the MIT License. See the LICENSE file for more details.
 
-##Contact
-For any inquiries or feedback, please reach out to your-email@example.com.
+## Contact
+For any inquiries or feedback, please reach out to abdulshaffayqazi@gmail.com.
